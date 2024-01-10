@@ -1,0 +1,151 @@
+@import url("https://fonts.googleapis.com/css2?family=Ramabhadra&family=Roboto:ital,wght@0,100;1,500;1,900&family=Sigmar&display=swap");
+.body1 {
+  width: 200px;
+  height: 200px;
+  border: 10px solid orange;
+  display: inline-block;
+}
+.body2 {
+  width: 200px;
+  height: 200px;
+  border: 10px solid yellow;
+  display: inline-block;
+}
+.body3 {
+  width: 200px;
+  height: 200px;
+  border: 10px solid navy;
+  display: inline-block;
+}
+#iplteam {
+  text-align: center;
+  background-color: aqua;
+  border-radius: 20px;
+}
+.logo1 {
+  width: 300px;
+  height: 300px;
+  border: 10px solid orange;
+  text-align: center;
+  border-radius: 40px;
+  display: inline-block;
+}
+.logo2 {
+  width: 300px;
+  height: 300px;
+  border: 10px solid orange;
+  border-radius: 40px;
+  display: inline-block;
+}
+.logo3 {
+  width: 300px;
+  height: 300px;
+  border: 10px solid orange;
+  border-radius: 40px;
+  display: inline-block;
+}
+#text1 {
+  color: orange;
+}
+#text2 {
+  color: orange;
+}
+
+#text3 {
+  color: orange;
+}
+.pera {
+  border-color: orange;
+  border: solid 5px red;
+  background-color: orange;
+
+  font-family: "Sigmar", cursive;
+}
+.Srhback1 {
+  background-color: aquamarine;
+}
+
+.logo4 {
+  width: 300px;
+  height: 300px;
+  border: 10px solid navy;
+  text-align: center;
+  border-radius: 40px;
+  display: inline-block;
+}
+.logo5 {
+  width: 300px;
+  height: 300px;
+  border: 10px solid navy;
+  border-radius: 40px;
+  display: inline-block;
+}
+.logo6 {
+  width: 300px;
+  height: 300px;
+  border: 10px solid navy;
+  border-radius: 40px;
+  display: inline-block;
+}
+#text4 {
+  color: navy;
+}
+#text5 {
+  color: navy;
+}
+
+#text6 {
+  color: navy;
+}
+.pera1 {
+  border-color: navajowhite;
+  border: solid 5px navy;
+  background-color: yellow;
+  font-family: "Ramabhadra", sans-serif;
+}
+
+.logo7 {
+  width: 300px;
+  height: 300px;
+  border: 10px solid navy;
+  text-align: center;
+  border-radius: 40px;
+  display: inline-block;
+}
+.logo8 {
+  width: 300px;
+  height: 300px;
+  border: 10px solid navy;
+  border-radius: 40px;
+  display: inline-block;
+}
+.logo9 {
+  width: 300px;
+  height: 300px;
+  border: 10px solid navy;
+  border-radius: 40px;
+  display: inline-block;
+}
+#text7 {
+  color: navy;
+}
+#text8 {
+  color: navy;
+}
+
+#text9 {
+  color: navy;
+}
+.pera2 {
+  border-color: navajowhite;
+  border: solid 5px navy;
+  background-color: whitesmoke;
+
+  font-family: "Roboto", sans-serif;
+}
+#peragra {
+  border: 5px solid black;
+}
+.div1 {
+  display: inline-block;
+}
